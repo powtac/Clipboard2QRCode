@@ -15,8 +15,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CD0E754D13DF49E300181C31"
                BuildableName = "BarcodeGenerator.app"
-               BlueprintName = "BarcodeGenerator"
-               ReferencedContainer = "container:BarcodeGenerator.xcodeproj">
+               BlueprintName = "Clipboard2QRCode"
+               ReferencedContainer = "container:Clipboard2QRCode.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,8 +33,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CD0E754D13DF49E300181C31"
             BuildableName = "BarcodeGenerator.app"
-            BlueprintName = "BarcodeGenerator"
-            ReferencedContainer = "container:BarcodeGenerator.xcodeproj">
+            BlueprintName = "Clipboard2QRCode"
+            ReferencedContainer = "container:Clipboard2QRCode.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,8 +52,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CD0E754D13DF49E300181C31"
             BuildableName = "BarcodeGenerator.app"
-            BlueprintName = "BarcodeGenerator"
-            ReferencedContainer = "container:BarcodeGenerator.xcodeproj">
+            BlueprintName = "Clipboard2QRCode"
+            ReferencedContainer = "container:Clipboard2QRCode.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -70,8 +70,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CD0E754D13DF49E300181C31"
             BuildableName = "BarcodeGenerator.app"
-            BlueprintName = "BarcodeGenerator"
-            ReferencedContainer = "container:BarcodeGenerator.xcodeproj">
+            BlueprintName = "Clipboard2QRCode"
+            ReferencedContainer = "container:Clipboard2QRCode.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
