@@ -14,7 +14,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CD0E754D13DF49E300181C31"
-               BuildableName = "BarcodeGenerator.app"
+               BuildableName = "Clipboard2QRCode.app"
                BlueprintName = "Clipboard2QRCode"
                ReferencedContainer = "container:Clipboard2QRCode.xcodeproj">
             </BuildableReference>
@@ -32,7 +32,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CD0E754D13DF49E300181C31"
-            BuildableName = "BarcodeGenerator.app"
+            BuildableName = "Clipboard2QRCode.app"
             BlueprintName = "Clipboard2QRCode"
             ReferencedContainer = "container:Clipboard2QRCode.xcodeproj">
          </BuildableReference>
@@ -51,7 +51,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CD0E754D13DF49E300181C31"
-            BuildableName = "BarcodeGenerator.app"
+            BuildableName = "Clipboard2QRCode.app"
             BlueprintName = "Clipboard2QRCode"
             ReferencedContainer = "container:Clipboard2QRCode.xcodeproj">
          </BuildableReference>
@@ -69,7 +69,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CD0E754D13DF49E300181C31"
-            BuildableName = "BarcodeGenerator.app"
+            BuildableName = "Clipboard2QRCode.app"
             BlueprintName = "Clipboard2QRCode"
             ReferencedContainer = "container:Clipboard2QRCode.xcodeproj">
          </BuildableReference>

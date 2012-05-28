@@ -234,6 +234,7 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = Clipboard2QRCode;
+				LastUpgradeCheck = 0430;
 				ORGANIZATIONNAME = "Simon Brüchner Webdesign";
 			};
 			buildConfigurationList = CD0E754813DF49E300181C31 /* Build configuration list for PBXProject "Clipboard2QRCode" */;
@@ -366,6 +367,7 @@
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "QRGen/Clipboard2QRCode-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				HEADER_SEARCH_PATHS = ./QRGen/libpng;
 				INFOPLIST_FILE = "QRGen/Clipboard2QRCode-Info.plist";
 				PRODUCT_NAME = Clipboard2QRCode;
@@ -380,6 +382,7 @@
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "QRGen/Clipboard2QRCode-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				HEADER_SEARCH_PATHS = ./QRGen/libpng;
 				INFOPLIST_FILE = "QRGen/Clipboard2QRCode-Info.plist";
 				PRODUCT_NAME = Clipboard2QRCode;
